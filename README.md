@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @safi-alt(Safi Sohail Azim)
+- 🌱 I work as an AI engineer @ NMIS Digital Factory
 - 👀 I’m interested in data science, AI, machine learning, deep learning and everthing in between
 - 🌱 I’ve graduated with Master in AI from University of Essex with Distinction
 - 💞️ I’m looking to collaborate on projects that are in finance, marketing, decision making, sales & pricing and customer sentiment analysis domain
