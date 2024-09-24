@@ -3,7 +3,7 @@
 - 👀 I’m interested in data science, AI, machine learning, deep learning and everthing in between
 - 🌱 I’ve graduated with Master in AI from University of Essex with Distinction
 - 💞️ I’m looking to collaborate on projects that are in finance, marketing, decision making, sales & pricing, manufacturing and customer sentiment analysis domain
-- 📫 How to reach me safisa13@hotmail.com
+- 📫 How to reach me safiazim8@gmail.com
 
 <!---
 safi-alt/safi-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
